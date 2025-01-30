@@ -1,19 +1,17 @@
 # **YG Entertainment**
 >*Web*
 
-이 프로젝트는 React를 사용하여 Video API를 활용한 자동재생, Hover effect 및 부드러운 페이지 전환 등 다양한 인터랙티브 요소와 애니메이션 구현
-메인 슬라이더의 상태를 관리하고 자동 및 수동 이미지 전환을 제공합니다.
+
+이 프로젝트는 YG Entertainment 웹사이트를 리뉴얼하였습니다.
+</br>HTML, CSS, jQuery를 활용하여 반응형 네비게이션, 동적인 이미지 슬라이더 그리고 스크롤에 따른 인터페이스 변화 등을 구현한 웹 애플리케이션입니다. 다양한 인터랙티브 요소와 애니메이션 구현 및 메인 슬라이더의 상태를 관리하고 자동 및 수동 이미지 전환을 제공합니다.
 
 ## 📑View
-https://harin-kw0w.github.io/artcenter-nabi/
+ https://harin-kw0w.github.io/YG-Entertainment-/
 
 ## 🛠기술 스택
-React, Redux, Axios, CSS, JavaScript, Flexbox, SwiperJS, GSAP 등 
+HTML, CSS, jQuery, JavaScript, SwiperJS, Video 등 
 
 ## 📣주요특징
-* Redux를 활용하여 상태를 효율적으로 관리
-* 정적 JSON 데이터 로딩 및 상품 페이지 랜더링
-* SwiperJS를 활용하여 메인 슬라이더 정적 및 동적 구현 
-* 첫 페이지에서 한 주간 인기 있는 갤러리 TOP 10 데이터를 랜덤으로 표시
-* 유저가 선택한 장르에 따라 데이터를 받아오는 '더보기' 페이지 구현
-* Video API 
+* CSS Flexbox와 Grid 레이아웃을 활용하여 다양한 화면 크기에 최적화된 UI를 제공
+* 각 섹션에 텍스트와 이미지, 비디오 등 YG의 다양한 콘텐츠를 구성
+* SwiperJS를 활용한 메인 슬라이더 구현
