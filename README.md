@@ -12,6 +12,6 @@
 HTML, CSS, jQuery, JavaScript, SwiperJS, Video 등 
 
 ## 📣주요특징
-* CSS Flexbox와 Grid 레이아웃을 활용하여 다양한 화면 크기에 최적화된 UI를 제공
+* CSS와 Grid 레이아웃을 활용하여 다양한 화면 크기에 최적화된 UI를 제공
 * 각 섹션에 텍스트와 이미지, 비디오 등 YG의 다양한 콘텐츠를 구성
 * SwiperJS를 활용한 메인 슬라이더 구현
